@@ -1,0 +1,26 @@
+{
+    "responseData": {
+        "results": [
+            {
+                "GsearchResultClass": "GwebSearch",
+                "unescapedUrl": "https://www.reddit.com/r/golang",
+                "url": "https://www.reddit.com/r/golang",
+                "visibleUrl": "www.reddit.com",
+                "cacheUrl": "http://www.google.com/search?q=cache:W...",
+                "title": "r/\u003cb\u003eGolang\u003c/b\u003e - Reddit",
+                "titleNoFormatting": "r/Golang - ”“Reddit",
+                "content": "First Open Source Golang..."
+            },
+            {
+                "GsearchResultClass": "GwebSearch",
+                "unescapedUrl": "http://tour.golang.org/",
+                "url": "http://tour.golang.org/",
+                "visibleUrl": "tour.golang.org",
+                "cacheUrl": "http://www.google.com/search?q=cache:O...",
+                "title": "A Tour of Go",
+                "titleNoFormatting": "A Tour of Go",
+                "content": "Welcome to a tour of the Go programming ..."
+            }
+        ]
+    }
+}
